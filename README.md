@@ -1,5 +1,4 @@
 # YouTube-Spam-Detector
-Detection of YouTube Spam Comments
 
 **Overview**
 YouTube, with its vast reach and billions of daily interactions, serves as a significant platform for information and entertainment. However, this popularity has attracted spammers, who post irrelevant or promotional comments that disrupt user experience. The objective of this project is to develop an automated classifier that accurately flags spam comments, improving the quality of interactions on YouTube videos. This project leverages natural language processing techniques and machine learning to identify spam comments with a high degree of accuracy.
